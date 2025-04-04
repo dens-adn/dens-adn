@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently studying linux and web development. #
+I am currently studying linux and web development. 
 Any advice is much appreciated. 👍
 #
 
