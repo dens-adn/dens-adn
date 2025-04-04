@@ -1,5 +1,7 @@
-## Hi there 👋
-
+### Hi there 👋
+I am currently studying linux and web development.
+Any advice is much appreciated. 👍
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67c1be57580201fc77786f4f?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **dens-adn/dens-adn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
