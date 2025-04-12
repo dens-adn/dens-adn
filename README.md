@@ -1,4 +1,4 @@
-### Stop! Don't move! 🔫🐶
+### Sup?
 Linux Adminstrator and Web Developer. 
 Any advice is much appreciated. 👍
 #
