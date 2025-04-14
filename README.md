@@ -1,5 +1,5 @@
-### Sup?
-Linux Adminstrator and Web Developer. 
+### Hi there!
+I'm a Linux Adminstrator and Web Developer. 
 Any advice is much appreciated. 👍
 #
 
